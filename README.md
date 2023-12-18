@@ -23,7 +23,7 @@
 ### Linux命令行
 
 ```bash
-sudo sh -c 'sed -i "/# GitHub520 Host Start/Q" /etc/hosts && curl https://raw.githubusercontent.com/DioHamilton2020/hosts/main/hosts >> /etc/hosts'
+sudo sh -c 'sed -i "/# DMHY Host Start/Q" /etc/hosts && curl https://raw.githubusercontent.com/DioHamilton2020/hosts/main/hosts >> /etc/hosts'
 ```
 
 # 其他类似和借鉴项目
